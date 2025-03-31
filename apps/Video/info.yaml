@@ -1,0 +1,10 @@
+formatVersion: 1
+formatType: am-application
+---
+id: 'Video'
+icon: 'video.png'
+code: 'Video'
+runtime: 'native'
+name:
+    en: 'VideoApp'
+

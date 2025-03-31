@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/screens/central/">
+    <file alias="main.qml">/home/thaivodinh/Documents/MediaApp/apps/Home/screens/central/main.qml</file>
+    <file alias="CentralScreen.qml">/home/thaivodinh/Documents/MediaApp/apps/Home/screens/central/CentralScreen.qml</file>
+  </qresource>
+</RCC>
+

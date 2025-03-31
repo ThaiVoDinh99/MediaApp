@@ -1,0 +1,10 @@
+formatVersion: 1
+formatType: am-application
+---
+id: 'Setting'
+icon: 'setting.png'
+code: 'Setting'
+runtime: 'native'
+name:
+    en: 'SettingApp'
+

@@ -1,0 +1,7 @@
+formatVersion: 1
+formatType: am-configuration
+---
+ui:
+    mainQml: "${CONFIG_PWD}/main.qml"
+applications:
+    builtinAppsManifestDir: "${CONFIG_PWD}/../../apps"
